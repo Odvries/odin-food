@@ -1,0 +1,8 @@
+
+* {outline: solid 1px red; box-sizing: border-box;} 
+body {background-color: rgba(236, 234, 229, 0.782);font-family: 'Open Sans', sans-serif}
+header,h1 {text-align: center; padding: 2px; background-color: #90a4ae;}
+.container {display: flex; background-color: rgba(236, 234, 229, 0.782);}
+.column {flex:1;}
+.listitem {font-weight: 600;}
+#topitem {background-color: bisque;}
